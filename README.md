@@ -2,6 +2,10 @@
 
 A responsive single-page website for a plant shop, built with HTML and CSS. It presents the shop's plants and products with a clean, mobile-friendly layout.
 
+## Preview
+
+![Project Preview](assets/preview.png)
+
 ## Tech Stack
 
 - HTML5
