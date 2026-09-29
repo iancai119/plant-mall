@@ -1,4 +1,6 @@
 # Plant Mall
+![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
 
 A responsive single-page website for a plant shop, built with HTML and CSS. It presents the shop's plants and products with a clean, mobile-friendly layout.
 
