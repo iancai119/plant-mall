@@ -22,4 +22,4 @@ No build step needed — it's a static site:
 
 ## Live Demo
 
-👉 Enable GitHub Pages (Settings → Pages → Deploy from branch → `main` / `root`) and paste the URL here.
+👉 [Live Demo](https://iancai119.github.io/plant-mall/Plant%20Mall/Plant%20Mall.html)
